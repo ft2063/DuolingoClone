@@ -1,4 +1,5 @@
-This is a duolingo clone :) 
+This is a duolingo clone :)  
+Link: https://duolingo-clone-7kxgnhnot-ft2063s-projects.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
